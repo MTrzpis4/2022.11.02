@@ -1,0 +1,49 @@
+.a1{
+    text-indent: 50px;
+}
+.a1::first-letter{
+    font-family: Algerian;
+    font-size: 40px;
+    padding: 5px;
+    margin:5px;
+    background-color: yellow;
+    border: 2px solid red;
+    color: red;
+}
+.a1::first-line{
+    font-family: Cambria;
+    font-size: 12px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration-line: underline;
+}
+.a2{
+    text-indent: 20px;
+}
+.a2::first-letter{
+    font-family: Curlz MT;
+    font-size: 60px;
+    padding:5px;
+    margin: 5px;
+    background-color: yellow;
+    border: 1px solid red;
+    color: black;
+}
+.a2::first-line{
+    font-family: Jokerman;
+    font-size: 20px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration-line: underline;
+}
+.i1{
+    margin-bottom: -50px;
+}
+.i2{
+    margin-bottom: -70px;
+}
+body{
+    background-color: #f9f2ec;
+}
